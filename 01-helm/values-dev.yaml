@@ -1,0 +1,4 @@
+# Example values file for Exercise 4
+replicaCount: 1
+service:
+  type: ClusterIP

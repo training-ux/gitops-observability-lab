@@ -1,0 +1,7 @@
+.DS_Store
+*.key
+*.pem
+.env
+.values-secret.yaml
+pagerduty-values.local.yaml
+**/secrets/
